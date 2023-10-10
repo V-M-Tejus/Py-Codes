@@ -1,0 +1,24 @@
+[{
+    "Wind-speed": 25,
+    "Humidity": 12,
+    "Temperature": 30,
+    "weather": "sunny"
+},
+{
+    "Wind-speed": 15,
+    "Humidity": 80,
+    "Temperature": 20,
+    "weather": "rainy"
+},
+{
+    "Wind-speed": 5,
+    "Humidity": 50,
+    "Temperature": 15,
+    "weather": "cloudy"
+},
+{
+    "Wind-speed": 10,
+    "Humidity": 30,
+    "Temperature": 25,
+    "weather": "partly cloudy"
+}]
